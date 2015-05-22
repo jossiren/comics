@@ -1,0 +1,1 @@
+Using this app. the user should be able to create comic strips using images from the orkut albums or flickr etc.
